@@ -2,3 +2,4 @@ pywin32
 easygui
 cv2
 sewar
+pillow
